@@ -1,9 +1,14 @@
 ## Command Scripts
-Install: npm install
+Install: npm install 
+
 Lint: npm run lint
+
 Build: npm run build
+
 Run unit tests: npm run test
+
 Start server: npm run start
+
 Start in watch changes\live mode : npm run watch
 
 ## Usage
