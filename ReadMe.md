@@ -17,6 +17,6 @@ Start in watch changes\live mode : npm run watch
     
 2. **Inputs**
    Query Params
-   - fileName : Available filenames - encenadaport,fjord,icelandwaterfall,santamonica,palmtunnel
+   - fileName : Available filenames - encenadaport, fjord, icelandwaterfall, santamonica, palmtunnel
    - width: Number > 0
    - height: Number > 0
