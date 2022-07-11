@@ -1,13 +1,13 @@
-env:  
-  node: true  
-extends:  
+env:
+  node: true
+extends:
   - plugin:@typescript-eslint/recommended
-  - plugin:prettier/recommended  
-parser: '@typescript-eslint/parser'  
-parserOptions:  
-  ecmaVersion: 9  
-  project: ./tsconfig.json  
-plugins:  
- - '@typescript-eslint'
-"ignorePatterns": 
-- "dist/**/*.js"
+  - plugin:prettier/recommended
+parser: '@typescript-eslint/parser'
+parserOptions:
+  ecmaVersion: 9
+  project: ./tsconfig.json
+plugins:
+  - '@typescript-eslint'
+'ignorePatterns':
+  - 'dist/**/*.js'
